@@ -274,3 +274,24 @@ MIT License - feel free to use this for learning!
 ---
 
 Happy Learning! 🎉
+
+
+---
+
+## 📸 API Endpoints Screenshots
+
+### Get All Users
+![Get All Users](images/01-get-all-users.png)
+
+### Get Single User
+![Get Single User](images/02-get-single-user.png)
+
+### Create User
+![Create User](images/03-post-create-user.png)
+
+### Update User
+![Update User](images/04-put-update-user.png)
+
+### Delete User
+![Delete User](images/05-delete-user.png)
+
